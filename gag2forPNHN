@@ -36,7 +36,7 @@ Instance.new("UICorner", MainFrame)
 
 local Title = Instance.new("TextLabel", MainFrame)
 Title.Size = UDim2.new(1, 0, 0, 45)
-Title.Text = "BA HOAI - MAILBOX V5.1 \"For PNHN\""
+Title.Text = "BA HOAI - MAILBOX V5.2 \"For PNHN\""
 Title.TextColor3 = Color3.fromRGB(0, 255, 150)
 Title.Font = Enum.Font.GothamBold
 Title.TextSize = 18
